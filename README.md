@@ -1,4 +1,8 @@
-# NOVA DRIFT — make.fun best-game-01 entry (local-only, not submitted)
+# NOVA DRIFT — make.fun best-game-01 entry
+
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/NgademinSikil/makefun-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/NgademinSikil/makefun-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A complete, original neon space arcade game that plays offline in a desktop browser
 from its own static files. No libraries, no network requests, no build step.
@@ -40,6 +44,9 @@ stages deterministic screenshot scenes (see `game/src/shots.js`).
 
 ## Status
 
-Built locally only. **Not submitted** to make.fun — submission still needs a public
-GitHub repo (or source bundle), the AI agent transcripts, and a Solana wallet for the
-USDC payout. Bounty closes Thu 19 Nov 2026 02:00 WITA.
+Entered in make.fun's "Make the best game" bounty ($1,000 in USDC). Bounty closes
+Thu 19 Nov 2026 02:00 WITA.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ds1567x3&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
